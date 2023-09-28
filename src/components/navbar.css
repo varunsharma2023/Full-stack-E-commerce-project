@@ -1,0 +1,10 @@
+.navbar-nav{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Poppins', sans-serif;
+    width: 100%;
+}
+.navbar-nav > li{
+    flex: 1;
+    text-align: center;
+}
